@@ -1,5 +1,5 @@
 ## Hi 
-I'm Sakshi 
+I'm Sakshi, A Computer Science graduate trying to get into Data!
 
 ## 🛠 Tools
 <ul>
