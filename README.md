@@ -1,9 +1,12 @@
-## Hi, I'm Sakshi
+## Hi 
+I'm Sakshi 
 
 ## 🛠 Tools
-Language: SQL, Python, R
-Database: MySQL, PostgreSQL, SQL Server, Mongo DB
-Visualization: Power BI
+<ul>
+  <li>Language: SQL, Python, R</li>
+  <li>Database: MySQL, PostgreSQL, SQL Server, Mongo DB</li>
+  <li>Visualization: Power BI</li>
+</ul>
 
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
